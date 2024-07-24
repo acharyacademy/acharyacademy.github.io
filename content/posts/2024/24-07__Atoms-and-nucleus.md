@@ -17,7 +17,7 @@ draft: false
 
 Ever wondered, if we keep breaking down something what will we get maybe smaller pieces of that same thing. What if we still keep breaking it down, at some point it becomes powder, well if you look closely you may realise it is still the same thing but it very smaller pieces. Now if we keep it breaking it down, eventually we would get atoms, but we wouldn't be able to see it through naked eye, we need electron microscope. And since, we don't have it right now so you just have to take my word for it.
 
-![Rutherford model of atom](images/atom-model.jpg)
+![Rutherford model of atom](https://learn.acharyacademy.com/images/atom-model.jpg)
 
 This is the **Rutherford model of atom**. The big blob you see in the center is called as **Nucleus**, and the small circular blobs revolving around it are called **Electrons**.
 
@@ -53,7 +53,7 @@ The boss i.e. nucleus wants soldier/workers to safeguard their territory. So he 
 
 This way of putting their workers is known as *atomic configuration*.
 
-![Atomic shell](images/atomic-shell.jpg)
+![Atomic shell](https://learn.acharyacademy.com/images/atomic-shell.jpg)
 
 Look at this image, we have the territory of **Aluminium** he only has 11 workers, he put 2 workers into the territory closest to his home, then he put 8 workers and lastly he put 3 workers. But he calculated that he needs 8 total soldiers their.
 
